@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+    background-image: url("https://www.transparenttextures.com/patterns/broken-noise.png");
+}
+
+.headerbg {
+    height: 400px;
+    width: 100%;
+    background-image: url("https://www.transparenttextures.com/patterns/cartographer.png");
+}
+
+
+.headertitlecontainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40vh;
+    font-family: 'Rubik Iso', cursive;
+    color: white;
+    text-align: center;
+}
+
+.changefont {
+    font-family: 'Patrick Hand', cursive;
+    color: white;
+}
+
+.gitHubLink {
+    color: lightblue;
+}
+
+.skillicon {
+    margin-right: 10px;
+}
+
+
+.cert-size {
+    text-align: center;
+}
+
+.mx-lg-auto {
+    margin-right: 0!important;
+    margin-left: auto!important;
+}
+
+.nttimage {
+    width: 125px;
+    height: 100px;
+}
+
+
